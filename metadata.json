@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Workflow Pulse",
+  "description": "A daily dashboard for AI Video Creators featuring news, workflows, and prompts powered by Gemini.",
+  "requestFramePermissions": []
+}
